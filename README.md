@@ -20,7 +20,7 @@
 
 ## 📊 My Github Stats
 
-<img align=center src = "https://github-readme-stats.vercel.app/api?username=ramana-bandapu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img align=center src = "https://app.netlify.com/teams/ramanabandapu/sites&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 <img align="center"  src = "https://camo.githubusercontent.com/a75aeca88118ac02143a575749c096f69f0111accad8ba45ddf7fc586ea7108c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d676972656573686b756d617265646967612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" />
 
