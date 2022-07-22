@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramana-bandapu&label=Profile%20views&color=0e75b6&style=flat" alt="Ramana" /> </p>
 
-<!-- <p align="left"> <a href="https://twitter.com/RamanaBandapu" target="blank"><img src="https://img.shields.io/twitter/follow/mahindra_1999?logo=twitter&style=for-the-badge" alt="RamanaBandapu" /></a> </p> -->
+ <p align="left"> <a href="https://twitter.com/RamanaBandapu" target="blank"><img src="https://img.shields.io/twitter/follow/mahindra_1999?logo=twitter&style=for-the-badge" alt="RamanaBandapu" /></a> </p> 
 
 ## 🙋‍♂️ About Me
 
@@ -31,8 +31,8 @@
 <h2 align="left">✉️ Connect with me:</h2>
 
 <p align="left" display= "flex">
-<!--   
-<a href="https://twitter.com/RamanaBandapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ramana" height="30" width="40" /></a> -->
+   
+<a href="https://twitter.com/RamanaBandapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ramana" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/ramana-bandapu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ramana" height="30" width="40" /></a> <a href="https://www.facebook.com/ramana.powerstar.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ramana" height="30" width="40" /></a> <a href="https://medium.com/@bandapu.ramana
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bandapu.ramana" height="30" width="40" /></a>
 </p>
