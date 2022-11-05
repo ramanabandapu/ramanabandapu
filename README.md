@@ -61,20 +61,27 @@
 
 <br />
 
-<img
-        src="https://ghchart.rshah.org/021F34/saikiran11461"
-        alt="fdsdf"
-        style={{ width: "80%", display: "block", margin: "auto" }}
-      />
 
-<h2 align="left">✉️ Connect with me:</h2>
+## Connect with me:
 
-<p align="left" display= "flex">
-   
-<a href="https://twitter.com/RamanaBandapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ramana" height="30" width="40" margin-right="40px" /></a>
-  <a href="https://www.linkedin.com/in/ramana-bandapu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ramana" height="30" width="40" /></a> <a href="https://www.facebook.com/ramana.powerstar.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ramana" height="30" width="40" /></a> <a href="https://medium.com/@bandapu.ramana
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bandapu.ramana" height="30" width="40" /></a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ramana-bandapu/"
+    ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"
+  /></a>
+  <a href="https://www.instagram.com/ramana_pspk_cult/?hl=en"
+    ><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"
+  /></a>
 </p>
+
+<a href="https://github.com/ramanabandapu/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=ramanabandapu" />
+</a>
+<a href="https://github.com/ramanabandapu?tab=followers">
+  <img
+    src="https://img.shields.io/github/followers/ramanabandapu?label=Followers&style=social"
+    alt="GitHub Badge"
+  />
+</a>
 
 ## 🚀 Languages and Tools:
 
