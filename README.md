@@ -50,12 +50,6 @@
     alt="Ramana Bandapu's streak"
     src="https://github-profile-trophy.vercel.app/?username=ramanabandapu&theme=react&hide_border=true&stroke=0000&background=060A0CD0"
   />
- 
- <img
-        src="https://ghchart.rshah.org/021F34/ramanabandapu"
-        alt="github calender"
-        style="width: 80%; display:block; margin:auto"
-      />
 
 </p>
 
