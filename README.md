@@ -18,15 +18,42 @@
 - 💌 Reach out me at [_**bandapu.ramana@gmail.com**_](mailto:bandapu.ramana@gmail.com)
 - ⚙️ Technical Skills : HTML, CSS, JS, MongoDB, Express.JS, Node.JS, React.JS, Redux.JS
 
+<p align="center"></p>
+
 ## 📊 My Github Stats
 
-<img align=center src = "https://app.netlify.com/teams/ramanabandapu/sites&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<br />
+<p>
+  <img
+    style="height: 200px; width: 48%"
+    title="Get streak stats for your profile at git.io/streak-stats"
+    alt="Harshada Jagtap's streak"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=harshadajagtap25&theme=react&hide_border=true&stroke=0000&background=060A0CD0"
+  />
+  <img
+    style="height: 200px; width: 48%"
+    alt="Harshada Jagtap's Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=harshadajagtap25&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+  />
+</p>
+<br />
+<p>
+  <img
+    style="height: 200px; width: 48%"
+    alt="Harshada Jagtap's Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshadajagtap25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
+  />
 
-<img align="center"  src = "https://camo.githubusercontent.com/a75aeca88118ac02143a575749c096f69f0111accad8ba45ddf7fc586ea7108c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d676972656573686b756d617265646967612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" />
+<img
+    style="height: 200px; width: 100%;"
+    title="Git Trophy"
+    alt="Harshada Jagtap's streak"
+    src="https://github-profile-trophy.vercel.app/?username=harshadajagtap25&theme=react&hide_border=true&stroke=0000&background=060A0CD0"
+  />
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramana-bandapu&show_icons=true&locale=en" alt="Ramana Bandapu" /></p> -->
+</p>
 
-<img align="center"  src = "https://camo.githubusercontent.com/478de9f2e149d7fce800d29398906f4c41ac95d051e0109a5e1d12c4a5d22fe1/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d7361726174682d31393426" />
+<br />
 
 <h2 align="left">✉️ Connect with me:</h2>
 
@@ -86,4 +113,3 @@
 
 
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
