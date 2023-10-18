@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramana-bandapu&label=Profile%20views&color=0e75b6&style=flat" alt="Ramana" /> </p>
 
- <p align="left"> <a href="https://www.linkedin.com/in/ramana-bandapu/" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="RamanaBandapu" height='10px' width='10px' /></a> </p> 
+ <p align="left"> <a href="https://www.linkedin.com/in/ramana-bandapu/" target="blank"><img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="RamanaBandapu" height='30px' width='30px' /></a> </p> 
 
 ## 🙋‍♂️ About Me
 
